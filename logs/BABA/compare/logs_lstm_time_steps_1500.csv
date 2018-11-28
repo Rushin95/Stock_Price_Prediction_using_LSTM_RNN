@@ -1,0 +1,9 @@
+algorithm,train_size,test_size,lookback,after_days,epochs,batch_size,train_rmse,test_rmse,time_taken,file_name,stock_param
+lstm_time_steps,1500,178,3,1,50,2,2.1,4.26,40,BABA,close
+lstm_time_steps,1500,174,7,1,50,2,1.83,4.05,62,BABA,close
+lstm_time_steps,1500,167,14,1,50,1,1.94,3.82,202,BABA,close
+lstm_time_steps,1500,153,28,1,50,1,1.82,3.78,409,BABA,close
+lstm_time_steps,1500,178,3,1,100,2,1.92,4.77,95,BABA,close
+lstm_time_steps,1500,174,7,1,100,2,1.84,4.87,136,BABA,close
+lstm_time_steps,1500,167,14,1,100,1,1.9,4.41,397,BABA,close
+lstm_time_steps,1500,153,28,1,100,1,1.8,4.01,772,BABA,close
